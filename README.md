@@ -1,7 +1,5 @@
 # hackthecrisis
-status46.se &amp; VABomaten
-
-Jag har två projektidéer till Hack the Crisis. **"status46"** och **VABomaten**
+Jag har nu tre projektidéer till Hack the Crisis. **"status46"**, **VABomaten** och **jobbsamtal**
 
 <br>
 
