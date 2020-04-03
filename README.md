@@ -47,3 +47,12 @@ TODOs:
 
 Bonus om det hinns med:
 - [ ] Få till koppling till BANKID
+
+
+**jobbsamtal.se**
+*Challenges by Business Region Göteborg*: 
+- How can idle resources, like people and vehicles, in one sector be matched against the increased demand in another sector? 
+- How can we motivate people to exercise in a safe manner during the crisis?
+
+Jo! Du spelar in ditt CV och ansöker om jobb genom att ringa in. Den som har ett jobb som behöver utföras kan enkelt beskriva det och låta den som vill ansöka genom att ringa in och lämna ett meddelande. 
+Den som söker folk kan då lyssna på ansökningar samtidigt som hen rör på kroppen. Framförallt kan du som söker jobbet svara på frågor och berätta om erfarenheter du har som är relevanta för jobbet utan att stressa över att få till ett snyggt CV. Den som tar emot ansökningar kan också vlja att få alla dessa som PDF-dokument, (speach to text) för att snabbt kunna skumma igenom flera ansökningar. 
