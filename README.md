@@ -1,9 +1,9 @@
 # hackthecrisis
 status46.se &amp; VABomaten
 
-Jag har två projektidéer till Hack the Crisis.
-"status46" och VABomaten
+Jag har två projektidéer till Hack the Crisis. **"status46"** och **VABomaten**
 
+<br>
 
 ## status46.se 
 Montitoring peoples health by broadcasting the question "Hur mår du?" to all mobile phones in a specific area via sms 📲 once per day. 
