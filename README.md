@@ -10,6 +10,8 @@ People can answer with just one word like good, bad, cold, fever or give a more 
 
 **Background:** I would be happy to provide data about how I'm feeling, if it was easy to do. I've been sick myself and I'm guessing it was Corona because of the symptoms, and I lacked an easy way to report this and to keep track of the "course of the disease" (sjukdomsförloppet). 
 
+Option: Automated phone calls. Just like when explosives will be used in an area and you can get an automated phone call informing you of this. "Press 1 to confirm you've received this information, Press 2 if you want to talk to someone". These calls could be: Hej! With the current Corona-crisis we're asking all citizens in this area with many infected if you're willing to start reporting any symptoms, to enable live updates to the situation... 
+
 TODOs:
 - [ ] landingpage 
 - [ ] create a demo
