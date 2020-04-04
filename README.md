@@ -68,3 +68,10 @@ Tryck 1 för att få höra senaste nyheterna och lagändringarna.
 Tryck 2 om du vill frivilligt vill rapportera in symptom. 
 Har du frågor om VAB eller ersättning vid arbetslöshet? 
 Tryck 3 så kopplar vi dig vidare till Försäkringskassan.
+
+### Uppdaterad summerad viktig information (nyheter & bestämmelser)
+Om det finns en textkälla, eller om FHM skapar en sida på sin hemsida med bara den texten så kan den scrape:as..) och sedan kan text to speach köras för att bygga en .mp3 varje gång texten har ändrats. Minimalt med arbete för FHM att få upp en text någonstans på sin hemsida.
+´´´´
+say -o hello.aiff -v 'Alex' 'Hello, my name is Alex'
+open hello.aiff
+´´´´
